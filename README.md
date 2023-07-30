@@ -1,6 +1,11 @@
 ## Hi, everybody! I'm a QA engineer👨‍💻
 ![Header](https://github.com/smaylick/smaylick/blob/main/assets/hii.png)
 
+## About me
+Привет! Я работаю ручным тестировщиком. Ловлю баги и не пускаю их в прод😉
+Умею адаптироваться к плохой документации, стараюсь её дополнять.
+Не "душню", а уточняю!
+
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
