@@ -1,5 +1,5 @@
 ## Hi, everybody! I'm a QA engineer👨‍💻
-![Header](https://github.com/smaylick/smaylick/blob/main/assets/hii.png)
+![Header](https://github.com/smaylick/smaylick/blob/main/assets/mee.png)
 
 ## About me
 Привет! Я работаю ручным тестировщиком. Ловлю баги и не пускаю их в прод😉
