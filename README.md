@@ -4,7 +4,7 @@
    </h1>
 </div>
 
-<div style="text-align: center;"><img src="assets/image.gif" alt="Header" /></div>
+<div style="text-align: center;"><img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUwODQ1NDgsIm5iZiI6MTcwNTA4NDI0OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTEyVDE4MzA0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVhNGRiOTVhMjg1ZGIwZTI4NjFkZjQ2NzE5NjU4NmY0YjA3YjEwZTk1MDdjYzVjYWNhNDI2ZjMwODkwOTMzMzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.CAXqugYllkkCL1SBS0tlT5oU4hRZvjLTjZMeAyGFMXo" alt="Header" /></div>
 
 <!--About me-->
 
@@ -19,6 +19,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/SmayLick"><img width="40px" alt="Telegram" title="Telegram" src="assets/social_networks/tg.gif"/></a>
   &#8287;
+  <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=DmwnWrRlRjJHDstQKfqbBPWsvShdDGglmJpTgrQTFhgFrjKxlzLzcBxlDMljTmFtKvHVPrvVsfKQ"><img width="40px" alt="Write me Email" title="Gmail" src="assets/social_networks/gmail.gif"/></a>
 </p>
 
 
