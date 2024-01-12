@@ -17,7 +17,7 @@
 
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/SmayLick"><img width="50px" alt="Telegram" title="Telegram" src="assets/social_networks/tg.gif"/></a>
+  <a href="https://t.me/SmayLick"><img width="40px" alt="Telegram" title="Telegram" src="assets/social_networks/tg.gif"/></a>
   &#8287;
 </p>
 
