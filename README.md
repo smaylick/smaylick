@@ -13,7 +13,7 @@
 - 🚀 I work QA over 2 years.
 - 🐍 I write autotests in Python.
 - 📬 Email: serezagavrilenko@gmail.com
-- 📑 <a target="_blank" href="assets/CV/CV.pdf">Резюме</a>
+- 📑 <a target="_blank" href="assets/CV/CV.pdf">CV</a>
 
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -23,7 +23,7 @@
 </p>
 
 
-### Language and Tools
+### Languages and Tools:
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
