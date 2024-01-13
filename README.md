@@ -42,6 +42,31 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
+### QA automation languages and tools
+<p  align="center">
+  <code><img width="5%" title="VS Code" src="assets/qa_automation/vscode.png"></code>
+  <code><img width="5%" title="Pycharm" src="assets/qa_automation/pycharm.png"></code>
+  <code><img width="5%" title="Python" src="assets/qa_automation/python.png"></code>
+  <code><img width="5%" title="Pytest" src="assets/qa_automation/pytest.png"></code>
+  <code><img width="5%" title="Selene" src="assets/qa_automation/selene.png"></code>
+  <code><img width="5%" title="Selenium" src="assets/qa_automation/selenium.png"></code>
+  <code><img width="5%" title="Requests" src="assets/qa_automation/requests.png"></code>
+  <code><img width="5%" title="GitHub" src="assets/qa_automation/github.png"></code>
+  <code><img width="5%" title="GitLab" src="assets/qa_automation/gitlab.png"></code>
+  <code><img width="5%" title="Jenkins" src="assets/qa_automation/jenkins.png"></code>
+  <code><img width="5%" title="Docker" src="assets/qa_automation/docker.png"></code>
+  <code><img width="5%" title="Selenoid" src="assets/qa_automation/selenoid.png"></code>
+  <code><img width="5%" title="Allure Report" src="assets/qa_automation/allure_report.png"></code>
+  <code><img width="5%" title="Allure TestOps" src="assets/qa_automation/allure_testops.png"></code>
+  <code><img width="5%" title="Appium" src="assets/qa_automation/appium.png"></code>
+  <code><img width="5%" title="Browserstack" src="assets/qa_automation/browserstack.png"></code>
+  <code><img width="5%" title="Android Studio" src="assets/qa_automation/android_studio.png"></code>
+  <code><img width="5%" title="Xcode" src="assets/qa_automation/xcode.png"></code>
+  <code><img width="5%" title="Telegram" src="assets/qa_automation/tg.png"></code>
+  <code><img width="5%" title="Slack" src="assets/qa_automation/slack.png"></code>
+</p>
+
+&#8287;&#8287;&#8287;&#8287;&#8287;
 ## :bar_chart:Git stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smaylick&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smaylick&theme=tokyonight) 
