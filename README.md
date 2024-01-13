@@ -22,8 +22,8 @@
   <a href="https://smaylick.github.io/"><img width="40px" alt="Visiting card" title="Cite" src="assets/social_networks/visiting_card.gif"/></a>
 </p>
 
-&#8287;&#8287;&#8287;&#8287;&#8287;
-### QA manual tools:
+&#8287;
+## QA manual tools:
 <p  align="center">  
   <code><img width="5%" title="Jira" src="assets/qa_manual/jira.png"></code>
   <code><img width="5%" title="Google DevTools" src="assets/qa_manual/devtools_google.jpg"></code>
@@ -42,8 +42,8 @@
   <code><img width="5%" title="Test IT" src="assets/qa_manual/testit.jpg"></code>
 </p>
 
-&#8287;&#8287;&#8287;&#8287;&#8287;
-### QA automation languages and tools:
+&#8287;&#8287;&#8287;&#8287;
+## QA automation languages and tools:
 <p  align="center">
   <code><img width="5%" title="VS Code" src="assets/qa_automation/vscode.png"></code>
   <code><img width="5%" title="Pycharm" src="assets/qa_automation/pycharm.png"></code>
